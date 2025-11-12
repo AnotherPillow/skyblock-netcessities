@@ -1,0 +1,13 @@
+name = "Skyblock Netcessities"
+author = "AnotherPillow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6a95c3d4b063fcbde7a51c746628e04aea4f3c91f19a4773382c5e447c974c44"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.29.3-beta.1"

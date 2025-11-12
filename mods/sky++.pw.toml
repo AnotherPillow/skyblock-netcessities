@@ -1,0 +1,13 @@
+name = "Sky++"
+filename = "skyplusplus-1.19.2-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JONKOJ0D/versions/Rrl0ZALB/skyplusplus-1.19.2-1.7.0.jar"
+hash-format = "sha512"
+hash = "dde63fb94aee3c32a2e480139b147e82b4a96777df51103bdc1be1ca852546392199adcc4c435bfdadf8ec40e30e5280339873bb37ce674f48539807e1d24233"
+
+[update]
+[update.modrinth]
+mod-id = "JONKOJ0D"
+version = "Rrl0ZALB"
