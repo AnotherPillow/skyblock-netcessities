@@ -1,8 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "9a1fa7b3dbb96a9ca27bda4da0b1326b9771269b321c6b3dafbaf8b175727613"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "f9bc260981100a238f2a2b0ad2f1c42ffb05d9e48f72e43a4d0ad9fcc64a796e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "402ce406f23b8de2dd79d79ea42a7fa487e9ba6264bd59e9034da4e5cb548d7a"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "aab946799247f683f91c75120403d54bdbf364adae15998c40bac260040d4b03"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "4c07cf4334507ec4dc53918815f15e39d645b9a5f2f91fff7f0fe3bedb13a6fd"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "79a780f068e2ed9dbc08107f4426244eb8f194b498daf161cab8fee6e1cd11de"
 metafile = true
 
 [[files]]
@@ -11,6 +41,31 @@ hash = "26a6c62dd5e1b6812ffdf82fa05d64513100661704a3b247e7e88f10a8143923"
 metafile = true
 
 [[files]]
+file = "mods/qsl.pw.toml"
+hash = "bc33470d5d8f27717a5c0ef799d22690b7088399cfa59a84a50d85216d9e5ac7"
+metafile = true
+
+[[files]]
 file = "mods/sky++.pw.toml"
 hash = "bc137ce43247c4f3477d355ba01dfaa71865ce102b08c73b5718bac8d199216f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8f1db9907f748dfaa91fe66f7cbd09c5a9e9a549e23527e254a1e7c86e349fb8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f7c5f0d1e8711e621222474017e44e2de28d6df83db928f7e93502ea16715330"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6c9db3ce06789a6f5a8cc4d5db009d9f0d352e3af47dd74794e7156f471ceaad"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a6593be07371724816f24aacf43b84d62c2f422ea1c5dfbe8c27c77e39d0eb84"
 metafile = true
