@@ -80,8 +80,8 @@ hash = "00e825c5a9d16c17da5cbfa645da2c9a3bb43c5e09cc192b686270900ca907d5"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+file = "mods/forge-config-api-port.pw.toml"
+hash = "c90c68883ba1b65907c7a86efa8e2d03fc043de88e9ee0226e73a45051663e22"
 metafile = true
 
 [[files]]
