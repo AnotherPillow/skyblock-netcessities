@@ -1,0 +1,36 @@
+{
+  "main_menu": {
+    "top_left": [
+        {"click_event":{"action":"open_url","url":"https://github.com/AnotherPillow/skyblock-netcessities"},"color":"light_purple","text":"Skyblock Netcessities Github"}
+    ],
+    "top_right": [
+    
+    ],
+    "bottom_left": [
+    
+    ],
+    "bottom_right": [
+    
+    ],
+    "mod_blacklist": [
+
+    ]
+  },
+  "pause_menu": {
+    "top_left": [
+    
+    ],
+    "top_right": [
+    
+    ],
+    "bottom_left": [
+    
+    ],
+    "bottom_right": [
+    
+    ],
+    "mod_blacklist": [
+
+    ]
+  }
+}

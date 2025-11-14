@@ -1,0 +1,8 @@
+name = "Pixin"
+filename = "Pixin-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AnotherPillow/Pixin/releases/download/1.2.0/Pixin-1.2.0.jar"
+hash-format = "sha256"
+hash = "85d0f6fa3706b46b62c9bb7350eaf7371ecd111f5c6d43725632a7c9a266e0d3"

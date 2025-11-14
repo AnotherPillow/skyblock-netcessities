@@ -1,0 +1,13 @@
+name = "skyblock.net textures"
+filename = "Skyblock.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lGIT5IR2/versions/gJC9n6iJ/Skyblock.zip"
+hash-format = "sha512"
+hash = "45e25c36ac39667bf27a8f14af0f2ec8fca1d1dc26479edcb15a5cf98e7550bb82aa0e528b31f22556e299d24c87499305034bf85ca8446f1e0634f3c07e0126"
+
+[update]
+[update.modrinth]
+mod-id = "lGIT5IR2"
+version = "gJC9n6iJ"

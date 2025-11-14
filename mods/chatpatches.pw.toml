@@ -1,0 +1,13 @@
+name = "Chat Patches"
+filename = "chatpatches-192.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/mkSBPVio/chatpatches-192.2.1.jar"
+hash-format = "sha512"
+hash = "9de562f3ddb0f3e96bb5e3849373c07cd9cba638d5a12cb3a145904f1dc3e4e200d154b0648b3e14e669d368be633ac160202087715c49b3b01c200c759ae105"
+
+[update]
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "mkSBPVio"
