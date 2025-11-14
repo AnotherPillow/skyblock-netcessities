@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "d6caf267477641c9e37172d511a67be8b434140bf6447797589980eef561e2e6"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "8ca64e74052a847b7a9095fd2d62583f99e537f93a683f383502e87217c2a343"
 metafile = true
