@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "57690803ece74b018fd113bd5f312ccb854f5c55883aba2d1e63e07fe1c773c1"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "9a1fa7b3dbb96a9ca27bda4da0b1326b9771269b321c6b3dafbaf8b175727613"
 metafile = true
