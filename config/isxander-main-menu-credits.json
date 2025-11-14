@@ -1,7 +1,7 @@
 {
   "main_menu": {
     "top_left": [
-        {"click_event":{"action":"open_url","url":"https://github.com/AnotherPillow/skyblock-netcessities"},"color":"light_purple","text":"Skyblock Netcessities Github"}
+        {"click_event":{"action":"open_url","url":"https://github.com/AnotherPillow/skyblock-netcessities"},"color":"light_purple","text":"Skyblock Netcessities"}
     ],
     "top_right": [
     

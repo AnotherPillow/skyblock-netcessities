@@ -75,11 +75,6 @@ hash = "8da056ddcea4b42a888604383b5a26ccab2b51871ab589a99a5f71afd592d27b"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "00e825c5a9d16c17da5cbfa645da2c9a3bb43c5e09cc192b686270900ca907d5"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "c90c68883ba1b65907c7a86efa8e2d03fc043de88e9ee0226e73a45051663e22"
 metafile = true
@@ -165,11 +160,6 @@ hash = "936451d026e4169035f25f18dd0f2a270839e286c01761eb2e8ff77b43701cb6"
 metafile = true
 
 [[files]]
-file = "mods/pixin.pw.toml"
-hash = "d9638132c28e0e5241ed79e33db1154e6786b2259461da6fbb4f72f175de874d"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "bc33470d5d8f27717a5c0ef799d22690b7088399cfa59a84a50d85216d9e5ac7"
 metafile = true
@@ -177,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "aee790168bf2f50886af66898f86519da4b39f403ea5214883624b134a0acfb8"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "809db5839ba485624d5ad0a525bf6acb9f08f5c9014ba2bcfbe51ba157d9acaa"
 metafile = true
 
 [[files]]
@@ -222,4 +217,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/skyblock.net-textures.pw.toml"
 hash = "aedec54e7501e5a01203a00ac03a943fce4a6e99dc5b14caaafc384e51687a0d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/smooth-font-32x.pw.toml"
+hash = "2f35f14033e281f71213ae72d536562a87ca644779eb41fd27fd5b9820ef7dda"
 metafile = true
