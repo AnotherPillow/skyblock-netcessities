@@ -1,0 +1,8 @@
+name = "sbutils"
+filename = "sbutils-1.3.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/hashalite/sbutils/releases/download/1.3.2/sbutils-1.3.2+1.19.2.jar"
+hash-format = "sha256"
+hash = "35de686f7d572f6fc3798bad85d8d4cbe06b6556d675a74ac8b83888efb305ee"

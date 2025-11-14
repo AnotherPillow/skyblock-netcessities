@@ -176,6 +176,11 @@ hash = "aee790168bf2f50886af66898f86519da4b39f403ea5214883624b134a0acfb8"
 metafile = true
 
 [[files]]
+file = "mods/sbutils.pw.toml"
+hash = "8822d8458b9365b7e09806dc3088b1af0be7176d94d9ccfbba7752be591dc6cc"
+metafile = true
+
+[[files]]
 file = "mods/sky++.pw.toml"
 hash = "bc137ce43247c4f3477d355ba01dfaa71865ce102b08c73b5718bac8d199216f"
 metafile = true
