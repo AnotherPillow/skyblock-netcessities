@@ -65,6 +65,11 @@ hash = "a70663f2677ec97fa0a1ded13bbad370904f253ce3c18a112104eeba9bc542ee"
 metafile = true
 
 [[files]]
+file = "mods/default-servers.pw.toml"
+hash = "839bd7adf4fedb2e93d18d172c0303c9ab621eb7e31f9634c812accaab6b6289"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "7bf6b4dd103447c56e48c5861660c2092749da3441ebc933652db386a151bbe8"
 metafile = true
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "9f596d728e7466308e4cd7010a0c158f77eae0f14f5d3d6e4567e9a992f51b24"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "2a657d59aa53b4db39686f1bdc4fe95a109d5dcfebccfdf62124a110dcddf6f8"
 metafile = true
 
 [[files]]

@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "name": "Skyblock",
+      "ip": "skyblock.net",
+      "resources": "prompt",
+      "forced": true
+    },
+    {
+      "name": "Skywars",
+      "ip": "skywars.com",
+      "resources": "prompt",
+      "forced": true
+    },
+    {
+      "name": "localhost",
+      "ip": "127.0.0.1:25565",
+      "resources": "prompt",
+      "forced": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Default servers"
+filename = "default-servers-1.1.0-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CE955WXS/versions/XkUPcD98/default-servers-1.1.0-1.19.2.jar"
+hash-format = "sha512"
+hash = "a6436c9a7ad84848a14b33ef656c6cbb4fdff087ea3d75ea8a59359a52c688bc732587e5d844d3036e6be4e194a0563fb8018398ac3e08f59696550733e2c234"
+
+[update]
+[update.modrinth]
+mod-id = "CE955WXS"
+version = "XkUPcD98"
