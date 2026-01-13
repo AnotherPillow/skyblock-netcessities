@@ -1,0 +1,5 @@
+autoJump:false
+fov:0.475
+bobView:false
+guiScale:2
+resourcePacks:["vanilla","continuity/default","file/Skyblock.zip","file/SmoothFont_1.21.zip"]

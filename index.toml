@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "2facfda1026ca14554889f01bfb5ec4fae41e29ee8f29bdacf0af5bc2dc0d6ca"
+
+[[files]]
+file = "config/default-servers.json"
+hash = "99aa2d4c34549fcd68b3b9f6467455fbb135fbd7a2105478f265f8c816af016b"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d6caf267477641c9e37172d511a67be8b434140bf6447797589980eef561e2e6"
+hash = "b51bbfe2d5dd42055f136606ec4304a7e7e2cf8a57178ce2abbc024a3af82385"
+
+[[files]]
+file = "config/skyplusplus.json"
+hash = "481eb7cdccad742c9408eb683b2cef0ecdc81a42c3e7e67bcef439c9c35029c7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -223,6 +235,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a6593be07371724816f24aacf43b84d62c2f422ea1c5dfbe8c27c77e39d0eb84"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "50d6144d80960790cfa11709069125e2ec505eef35f77c0d33aca399092dda3d"
 
 [[files]]
 file = "resourcepacks/skyblock.net-textures.pw.toml"
