@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6ec7750385f978faeb9f20221b2b08972fcb1fc7c2e7ea0b344d50fcb5b05894"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "2facfda1026ca14554889f01bfb5ec4fae41e29ee8f29bdacf0af5bc2dc0d6ca"
 
